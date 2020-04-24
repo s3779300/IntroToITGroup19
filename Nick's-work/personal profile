@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1> Personal Profile </h1>
+<ul>
+    <img src="https://puu.sh/FBHY5/a0d7e1c92b.jpg" alt="A picture of me" width="300" height="400">
+    <li>Nicholas Massouridis</li>
+    <li>s3344701</li>
+    <li>Email: s3344701@student.rmit.edu.au</li>
+    <li>Greek/Australian</li>
+    <li>Completed year 12 in 2010</li>
+    <li>Can speak English, Greek and Mandarin Chinese</li>
+    <li>I enjoy playing video games, watching AFL and professional wrestling, watching/reading anime/manga. 
+        I have 1 dog named Harley; he is a Maltese shih-tzu cross.</li>
+</ul>
+<p>Ever since I was a little kid, I have been interested in video games and computers. I enjoy seeing how things work and how they interact with each other. 
+    I currently have a little experience coding or anything software based, but I have built my own computer multiple times.
+</p>
+
+<p>I’m not too sure what my ideal job is currently, I was hoping to get a better understanding or find what I enjoy doing by doing this course. 
+    I have found an interest in Artificial Intelligence and wish to explore where that will take me.
+</p>
+    
+</body>
+</html>
