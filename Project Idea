@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>The project idea our group has decided to pursue is the “movie night” program which is an application that allows users to sync media up between different devices locally or over the internet. 
+As a collective we decided that this program is something very relevant to the current world situation with the COVID-19 pandemic people are inside more and unable to meet up with others so our program 
+will allow to them to watch/listen to things together over the internet. Another motivation to create this program is to allow a better experience for those who want to watch things with other people 
+over the internet.</p>
+
+<p>The program works using sessions, a user creates a session and becomes the leader of that session, the leader then has the option to hand the role of leader to another user if they desire. Apart from 
+leader there will also be moderator roles which can be given to users by the leader, moderators will have the ability to kick users from the session or time them out from the chat for an amount of time. 
+The leader can add people to the session either through a direct invite or a link which will join the invitee to the session. An option is available to get a new link which will invalidate the previous 
+link.</p>
+
+<p>The program has two modes, a “group” mode and a “streamer” mode. The “group” mode is aimed to accommodate for small groups of people who all know each other whilst the “streamer” mode is intended to 
+be used by influencers who have a large following. The difference between the two modes is that in “group” mode if at any time a user pauses or has to buffer the media it will be stopped for all other 
+users, (there will however be an option in “group” mode for the leader to pick users who if they buffer will not stop the other users from continuing) whilst in “streamer” mode the media will only be 
+paused for everyone if the designated streamer (which isn’t always the leader) pauses the content or has to load it.</p>
+
+<p>To start playing media the leader of the session (or in rare cases the “streamer”) can either provide a link or upload a file from their system. Uploading a file will hold the file in a server which 
+will stream the file to the other users in the session, the leader has the option to save this media to the server if they want to upload it prior to running the session but the file can only be held 1 
+hour max before it either must be played or will be deleted from the servers, the media will also be deleted from the servers once the session is ended or a new piece of media is chosen. If the leader 
+provides a link the program will search for a video in the link provided and will start to play it for the users, if no link is found an error will show. An alternative to providing a link will be inbuilt
+ search functions for major video hosting platforms such as Youtube and Dailymotion.</p>
+ 
+<p>The program will also have a chat function so users can chat in real time before, after or during the media share. The chat log will be saved for media share that occurred through a link on servers 
+for a default of 7 days, during this time people with access to the logs can provide the link and re-watch with the chat messages being posted at the same time in the video as they were in the original 
+viewing session. Users can also choose to save the chat logs locally which will be provided as a file which when opened by the program will show the logs during the media. As mentioned previously the 
+leader or moderators of the chat have the power to time out users from the chat either indefinitely or for a set period of time.</p>
+
+<p>The program will also have additional functionality with certain other social media platforms. Some additional functionality will include the ability to share a link to Facebook, twitter, Instagram 
+etc. directly from the application and the ability to link up with chat rooms such as discord to display if you are currently using the application as well as allow other users to join from that 
+program.</p>
+</body>
+</html>
